@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "sticky": false,
+    "title": "Customer Service Representative",
+    "name": "Zenith Support",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "California",
+    "tag2": "$25/hr",
+    "date": "1d"
+  },
+  {
+    "id": 2,
+    "sticky": false,
+    "title": "IT Support Specialist",
+    "name": "Innovatech Solutions",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Texas",
+    "tag2": "$30/hr",
+    "date": "3h"
+  },
+  {
+    "id": 3,
+    "sticky": false,
+    "title": "Help Desk Technician",
+    "name": "TechPulse",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Florida",
+    "tag2": "$22/hr",
+    "date": "5h"
+  },
+  {
+    "id": 4,
+    "sticky": false,
+    "title": "Software Support Engineer",
+    "name": "CodeCrafters Inc.",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "New York",
+    "tag2": "$35/hr",
+    "date": "1d"
+  },
+  {
+    "id": 5,
+    "sticky": false,
+    "title": "Network Administrator",
+    "name": "NetGurus",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Illinois",
+    "tag2": "$40/hr",
+    "date": "2d"
+  },
+  {
+    "id": 6,
+    "sticky": false,
+    "title": "Client Service Specialist",
+    "name": "Bright Connections",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Washington",
+    "tag2": "$20/hr",
+    "date": "3d"
+  },
+  {
+    "id": 7,
+    "sticky": false,
+    "title": "Technical Support Representative",
+    "name": "QuickResolve",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Pennsylvania",
+    "tag2": "$28/hr",
+    "date": "4h"
+  },
+  {
+    "id": 8,
+    "sticky": false,
+    "title": "Cloud Services Analyst",
+    "name": "Cloudify Tech",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Ohio",
+    "tag2": "$32/hr",
+    "date": "6h"
+  },
+  {
+    "id": 9,
+    "sticky": false,
+    "title": "Data Center Technician",
+    "name": "DataWare Systems",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Michigan",
+    "tag2": "$45/hr",
+    "date": "7h"
+  },
+  {
+    "id": 10,
+    "sticky": false,
+    "title": "User Experience Specialist",
+    "name": "UX Dynamics",
+    "image": "https://via.placeholder.com/150",
+    "tag1": "Virginia",
+    "tag2": "$38/hr",
+    "date": "8h"
+  }
+]
